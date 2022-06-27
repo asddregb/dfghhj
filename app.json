@@ -1,0 +1,18 @@
+{
+    "name": "time",
+    "description": "LE",
+    "keywords": ["time"],
+    "env": {
+        "ID": {
+            "description": "ID",
+            "value": "xxxxx"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },asddregb/dfghhj
+    "website": "https://github.com/asddregb/dfghhj",
+    "repository": "https://github.com/asddregb/dfghhj",
+    "stack": "container"
+}
